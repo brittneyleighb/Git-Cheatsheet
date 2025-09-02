@@ -86,7 +86,7 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 
 **Beginner-Friendly:**
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/) - GitHub's official starter guide
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Well-illustrated explanations
+- [Atlassian Git Tutorials](atlassian.com/git/tutorials) - Well-illustrated explanations
 - [Git Tutorial for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/) - FreeCodeCamp guide
 
 **Advanced References:**
@@ -96,9 +96,12 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 
 ### 🎥 Video Learning
 
-- [Git & GitHub Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) - Brad Traversy (1 hour)
-- [Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0) - Tech with Tim
-- [Advanced Git Tutorial](https://www.youtube.com/watch?v=Uszj_k0DGsg) - The Net Ninja series
+- [Git & GitHub Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) - freeCodeCamp
+- [Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0) - Dave Gray
+- [Intermediate Git Course](https://www.youtube.com/watch?v=Uszj_k0DGsg) - freeCodeCamp
+- [Advanced Git Course](https://www.youtube.com/watch?v=qsTthZi23VE) - freeCodeCamp
+- [Git MERGE vs REBASE](https://www.youtube.com/watch?v=0chZFIZLR_0) - ByteByteGo
+- [Git Work Trees](https://youtu.be/2uEqYw-N8uE?si=wI5W2UCSw7HFD1be) - The Primeagen
 
 ### 🛠 Visual Git Tools (Great for Understanding)
 
