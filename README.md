@@ -81,7 +81,6 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 **Other Interactive Options:**
 - [Learn Git Branching](https://learngitbranching.js.org/) - Visual, interactive Git tutorial
 - [Git Immersion](https://gitimmersion.com/) - Guided tour through Git fundamentals
-- [Katacoda Git Scenarios](https://www.katacoda.com/courses/git) - Browser-based Git practice
 
 ### 📖 Comprehensive Guides
 
