@@ -113,15 +113,13 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 ### 📄 Quick References
 
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - Official PDF cheat sheet
-- [Atlassian Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - Command reference
-- [Git Command Explorer](https://gitexplorer.com/) - Find commands by what you want to do
+- [Git Command Explorer](https://git.gaozih.com/) - Find commands by what you want to do
 
 ### 🎯 Practice Environments
 
 - [GitHub](https://github.com/) - Create free repositories to practice
 - [GitLab](https://gitlab.com/) - Alternative platform with built-in CI/CD
 - [Bitbucket](https://bitbucket.org/) - Atlassian's Git platform
-- [Codewars Git Kata](https://www.codewars.com/kata/search/git) - Git-specific coding challenges
 
 ### 📱 Mobile Learning
 
@@ -131,7 +129,6 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 ### 🏫 Academic Resources
 
 - [MIT's Version Control with Git](https://missing.csail.mit.edu/2020/version-control/) - Part of "Missing Semester" course
-- [Stanford CS107 Git Guide](https://web.stanford.edu/class/cs107/guide/git.html) - Academic perspective
 - [Berkeley CS61B Git Guide](https://sp21.datastructur.es/materials/guides/git-wtfs.html) - Common Git problems for students
 
 ### 💡 Recommended Learning Path
@@ -141,25 +138,6 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 3. **Use this cheatsheet** as your daily reference during projects
 4. **Take [Boot.dev's advanced Git course](https://www.boot.dev/courses/learn-git-2)** when ready for team workflows
 5. **Keep [Pro Git Book](https://git-scm.com/book)** as your comprehensive reference
-
-## 📚 Additional Resources
-
-### 📚 Supplementary Reading
-
-### Beginner-Friendly
-- [Git Handbook](https://guides.github.com/introduction/git-handbook/) - GitHub's official guide
-- [Learn Git Branching](https://learngitbranching.js.org/) - Interactive visual tutorial
-- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - Official GitHub PDF
-
-### Advanced
-- [Pro Git Book](https://git-scm.com/book) - Comprehensive free book
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - In-depth tutorials
-- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Advanced techniques
-
-### Visual Learners
-- [GitKraken Git Client](https://www.gitkraken.com/) - Visual Git interface
-- [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI
-- [GitHub Desktop](https://desktop.github.com/) - Simple Git interface
 
 ## ⚡ Quick Command Reference
 
