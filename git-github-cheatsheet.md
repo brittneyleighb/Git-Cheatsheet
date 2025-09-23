@@ -219,7 +219,7 @@ git add .
 git commit -m "my changes"
 
 # ✅ ALWAYS create a feature branch first
-git checkout -b feature/add-user-authentication
+git switch -b feature/add-user-authentication
 # Make your changes here
 git add .
 git commit -m "Add user authentication system"
@@ -324,9 +324,9 @@ For class projects where you're all contributors:
 git clone https://github.com/your-team/class-project
 
 # But still use feature branches!
-git checkout -b feature/database-schema     # Alice's branch
-git checkout -b feature/user-interface      # Bob's branch
-git checkout -b feature/api-endpoints       # Carol's branch
+git switch -b feature/database-schema     # Alice's branch
+git switch -b feature/user-interface      # Bob's branch
+git switch -b feature/api-endpoints       # Carol's branch
 
 # Each person works on their branch, then creates pull requests
 # This prevents conflicts and allows code review
