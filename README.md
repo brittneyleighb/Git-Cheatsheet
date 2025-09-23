@@ -108,9 +108,3 @@
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Remember:** Learning Git is like learning to drive - it seems complex at first, but once you understand the fundamentals, it becomes second nature. This cheatsheet is your roadmap! 🚗➡️🏁
-
-⭐ If this cheatsheet helped you, please consider giving it a star!
