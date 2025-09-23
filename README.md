@@ -42,7 +42,6 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 
 **Beginner-Friendly:**
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/) - GitHub's official starter guide
-- [Atlassian Git Tutorials](atlassian.com/git/tutorials) - Well-illustrated explanations
 - [Git Tutorial for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/) - FreeCodeCamp guide
 
 **Advanced References:**
