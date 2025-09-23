@@ -100,8 +100,8 @@
 | Commit changes | `git commit -m "message"` |
 | Push changes | `git push origin main` |
 | Pull changes | `git pull origin main` |
-| Create branch | `git checkout -b branch-name` |
-| Switch branch | `git checkout branch-name` |
+| Create branch | `git switch -b branch-name` |
+| Switch branch | `git switch branch-name` |
 | Merge branch | `git merge branch-name` |
 | View history | `git log --oneline` |
 
