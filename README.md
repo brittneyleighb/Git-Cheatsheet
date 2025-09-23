@@ -1,15 +1,15 @@
-# Git & GitHub Cheatsheet 📚
+# Git & GitHub Cheatsheet 🐙🐱
 
 > A comprehensive, student-friendly reference guide for Git version control and GitHub collaboration
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **New to Git?** Start with the [Git Basics](git-github-cheatsheet.md#git-basics) section
 2. **Working on a team project?** Jump to [GitHub Workflow](git-github-cheatsheet.md#github-workflow)
 3. **Ran into problems?** Check [Troubleshooting](git-github-cheatsheet.md#troubleshooting)
 4. **Need advanced techniques?** See [Advanced Git Operations](git-github-cheatsheet.md#advanced-git-operations)
 
-## 📖 What's Inside
+## What's Inside
 
 - **Essential CLI Commands** - Basic terminal navigation and file operations
 - **Git Fundamentals** - Repository initialization, staging, committing
@@ -20,11 +20,7 @@
 - **Best Practices** - Professional development habits
 - **Troubleshooting** - Solutions to common Git problems
 
-## 📚 Learning Resources
-
-Don't just memorize commands - truly understand Git! Here are the best resources to level up your Git skills:
-
-### 🎮 Interactive Courses (Highly Recommended)
+### Interactive Courses
 
 **[Boot.dev Git Courses](https://www.boot.dev/courses/learn-git)** ⭐ **Top Pick for CS Students**
 - **[Learn Git (Fundamentals)](https://www.boot.dev/courses/learn-git)** - Master the basics plus plumbing commands that make it all work
@@ -38,7 +34,7 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 - [Learn Git Branching](https://learngitbranching.js.org/) - Visual, interactive Git tutorial
 - [Git Immersion](https://gitimmersion.com/) - Guided tour through Git fundamentals
 
-### 📖 Comprehensive Guides
+### Comprehensive Guides
 
 **Beginner-Friendly:**
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/) - GitHub's official starter guide
@@ -49,7 +45,7 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Stanford's advanced techniques guide
 - [Git Internals](https://github.com/pluralsight/git-internals-pdf) - Understanding how Git works under the hood
 
-### 🎥 Video Learning
+### Video Learning
 
 - [Git & GitHub Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) - freeCodeCamp
 - [Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0) - Dave Gray
@@ -65,28 +61,28 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 - [GitHub Desktop](https://desktop.github.com/) - Simple, user-friendly interface
 - [GitLens](https://gitlens.amod.io/) - VS Code extension for Git visualization
 
-### 📄 Quick References
+### Quick References
 
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - Official PDF cheat sheet
 - [Git Command Explorer](https://git.gaozih.com/) - Find commands by what you want to do
 
-### 🎯 Practice Environments
+### Practice Environments
 
 - [GitHub](https://github.com/) - Create free repositories to practice
 - [GitLab](https://gitlab.com/) - Alternative platform with built-in CI/CD
 - [Bitbucket](https://bitbucket.org/) - Atlassian's Git platform
 
-### 📱 Mobile Learning
+### Mobile Learning
 
 - [GitHub Mobile](https://github.com/mobile/) - Review code and manage repositories on mobile
 - [Git Pocket Reference](https://www.oreilly.com/library/view/git-pocket-reference/9781449327507/) - O'Reilly pocket guide
 
-### 🏫 Academic Resources
+### Academic Resources
 
 - [MIT's Version Control with Git](https://missing.csail.mit.edu/2020/version-control/) - Part of "Missing Semester" course
 - [Berkeley CS61B Git Guide](https://sp21.datastructur.es/materials/guides/git-wtfs.html) - Common Git problems for students
 
-### 💡 Recommended Learning Path
+### Recommended Learning Path
 
 1. **Start with [Boot.dev's Git course](https://www.boot.dev/courses/learn-git)** for solid fundamentals and deep understanding
 2. **Practice with [Learn Git Branching](https://learngitbranching.js.org/)** for visual understanding  
@@ -94,7 +90,7 @@ Don't just memorize commands - truly understand Git! Here are the best resources
 4. **Take [Boot.dev's advanced Git course](https://www.boot.dev/courses/learn-git-2)** when ready for team workflows
 5. **Keep [Pro Git Book](https://git-scm.com/book)** as your comprehensive reference
 
-## ⚡ Quick Command Reference
+## Quick Command Reference
 
 | Task | Command |
 |------|---------|
